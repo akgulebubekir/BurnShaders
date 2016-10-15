@@ -1,6 +1,6 @@
 # Burn Shader For Unity
 
-> A Unity shader that shades material as they like burning with specified pattern.
+> A Unity shader that shades material as it like burning with specified pattern.
 
 ### Customizable Features
 * Burn color
